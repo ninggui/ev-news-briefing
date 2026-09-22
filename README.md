@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # ev-news-briefing
 
 **新能源行业每日早报：Tavily 多角度搜 → 时效过滤 → AI 生成 → 飞书推送。**
